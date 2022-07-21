@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="335px" height="250px" viewBox="0 0 335 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>parasut-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="accounting-integration" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="smaller" transform="translate(-787.000000, 0.000000)" fill-rule="nonzero">
+            <g id="parasut-icon" transform="translate(787.000000, 0.000000)">
+                <path d="M335,161.920065 C332.618415,71.2850063 258.112515,-0.736347886 167.5,0.00568253782 C123.220087,-0.316658971 80.640398,17.0450029 49.1982078,48.2426648 C17.7560175,79.4403268 0.048387199,121.897125 0,166.203022 C5.66446267e-15,212.482815 37.4961522,250 83.75,250 C130.003847,250 167.5,212.482815 167.5,166.203022 L335,161.920065 Z" id="Path" fill="#F15E4F"></path>
+                <ellipse id="Oval" fill="#B34439" cx="250.653915" cy="166.169451" rx="83.75" ry="83.8305489"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

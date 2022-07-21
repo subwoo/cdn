@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'subwoo';
+    src: url('./font/subwoo.eot');
+    src: url('./font/subwoo.eot?#iefix') format('embedded-opentype'),
+         url('./font/subwoo.woff') format('woff'),
+         url('./font/subwoo.ttf') format('truetype'),
+         url('./font/subwoo.svg#subwoo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+[class*='dashicons-subwoo']:before{
+	display: inline-block;
+   font-family: 'subwoo';
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale
+}
+.dashicons-subwoo:before{content:'\0041';}
+
+[class*='icon-subwoo']:before{
+	display: inline-block;
+   font-family: 'subwoo';
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale
+}
+.icon-subwoo:before{content:'\0041';}
